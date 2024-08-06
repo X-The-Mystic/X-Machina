@@ -1,0 +1,12 @@
+#EternalBlue
+https://github.com/rapid7/metasploit-framework
+https://rapid7.com
+
+#IPsum
+https://github.com/stamparm/ipsum
+
+#Git
+https://github.com/Ekultek/GitRekt
+
+#Bluekeep
+Baseline packets, code provided by https://github.com/Ekultek/CVE-2019-0708.
